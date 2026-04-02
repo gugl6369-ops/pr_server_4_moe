@@ -3,7 +3,7 @@
 
 namespace BasicValidators\Validators;
 
-use Src\Validator\AbstractValidator;
+use BasicValidators\Validator\AbstractValidator;
 
 class NumericValidator extends AbstractValidator
 {

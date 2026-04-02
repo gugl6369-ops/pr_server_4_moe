@@ -3,7 +3,7 @@
 namespace BasicValidators\Validators;
 
 use Illuminate\Database\Capsule\Manager as Capsule;
-use Src\Validator\AbstractValidator;
+use BasicValidators\Validator\AbstractValidator;
 
 class UniqueValidator extends AbstractValidator
 {
